@@ -1,4 +1,4 @@
-# Hi 👋, I'm Simeon Alende
+# Hi 👋, I'm Simeon 
 
 ### A passionate Software developer
 
