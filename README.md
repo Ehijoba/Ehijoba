@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/simeonstonecold" target="blank"><img src="https://img.shields.io/twitter/follow/simeonstonecold?logo=twitter&style=for-the-badge" alt="simeonstonecold" /></a> </p>
 
-- 🔭 I'm currently working on **A core banking API **
+- 🔭 I'm currently working on **A core banking API**
 
 - 🌱 I'm currently learning **Kubernetes,PostgreSQL and touching up on Javascript**
 
 - 🤝 I'm looking for help with **internships and volunteering**
 
-- 💬 Ask me about **Node.js and backend security generally**
+- 💬 Ask me about **Node.js and backend generally**
 
 - 📫 How to reach me **simeonalende22@gmail.com**
 
-- ⚡ Fun fact **You can't beat me at chess **
+- ⚡ Fun fact **You can't beat me at chess**
 
 - 📝 I regularly write articles on **[http://www.linkedin.com/in/simeon-alende](http://www.linkedin.com/in/simeon-alende)**
 
